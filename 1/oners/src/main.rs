@@ -1,3 +1,4 @@
+// Rust translation! See java program for header
 fn main(){
     println!("{}",count_mults_under(1000,3,5));
 }
