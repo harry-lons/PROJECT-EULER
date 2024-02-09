@@ -1,0 +1,8 @@
+
+    PROJECT EULER #20
+    https://projecteuler.net/problem=20
+
+    Status: SOLVED, Solution = 648
+
+    Using a similar approach to Q16, but this time I wrote the whole 
+    thing in rust from scratch
