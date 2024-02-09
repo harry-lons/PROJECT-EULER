@@ -15,14 +15,13 @@ public class fiftythree{
             }
         }
         System.out.println(ct);
-
     }
     static int choose(int n,int r){
         // save variables (for print statement debugging)
         int saven = n; int saver = r;
-        // choose operation only defined on n > r
+        // choose operation only defined on n > r. If n == r, nCr = 1
         if(n <= r){return 0;}
-        double result = 1;
+        float result = 1;
         // declare nr to keep hold of n - r
         int nr = n - r;
         while(n >= 1){
