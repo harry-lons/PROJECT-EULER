@@ -1,0 +1,1964 @@
+i = 19 j = 20 is  twenty is size 0, 6, 0 =  6
+ hunSize, tenSize, oneSize = 0, 6, 0
+i = 20 j = 21 is  twenty one is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 21 j = 22 is  twenty two is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 22 j = 23 is  twenty three is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 23 j = 24 is  twenty four is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 24 j = 25 is  twenty five is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 25 j = 26 is  twenty six is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 26 j = 27 is  twenty seven is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 27 j = 28 is  twenty eight is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 28 j = 29 is  twenty nine is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 29 j = 30 is  thirty is size 0, 6, 0 =  6
+ hunSize, tenSize, oneSize = 0, 6, 0
+i = 30 j = 31 is  thirty one is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 31 j = 32 is  thirty two is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 32 j = 33 is  thirty three is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 33 j = 34 is  thirty four is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 34 j = 35 is  thirty five is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 35 j = 36 is  thirty six is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 36 j = 37 is  thirty seven is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 37 j = 38 is  thirty eight is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 38 j = 39 is  thirty nine is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 39 j = 40 is  forty is size 0, 5, 0 =  5
+ hunSize, tenSize, oneSize = 0, 5, 0
+i = 40 j = 41 is  forty one is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 41 j = 42 is  forty two is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 42 j = 43 is  forty three is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 43 j = 44 is  forty four is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 44 j = 45 is  forty five is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 45 j = 46 is  forty six is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 46 j = 47 is  forty seven is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 47 j = 48 is  forty eight is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 48 j = 49 is  forty nine is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 49 j = 50 is  fifty is size 0, 5, 0 =  5
+ hunSize, tenSize, oneSize = 0, 5, 0
+i = 50 j = 51 is  fifty one is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 51 j = 52 is  fifty two is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 52 j = 53 is  fifty three is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 53 j = 54 is  fifty four is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 54 j = 55 is  fifty five is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 55 j = 56 is  fifty six is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 56 j = 57 is  fifty seven is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 57 j = 58 is  fifty eight is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 58 j = 59 is  fifty nine is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 59 j = 60 is  sixty is size 0, 5, 0 =  5
+ hunSize, tenSize, oneSize = 0, 5, 0
+i = 60 j = 61 is  sixty one is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 61 j = 62 is  sixty two is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 62 j = 63 is  sixty three is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 63 j = 64 is  sixty four is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 64 j = 65 is  sixty five is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 65 j = 66 is  sixty six is size 0, 5, 3 =  8
+ hunSize, tenSize, oneSize = 0, 5, 3
+i = 66 j = 67 is  sixty seven is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 67 j = 68 is  sixty eight is size 0, 5, 5 =  10
+ hunSize, tenSize, oneSize = 0, 5, 5
+i = 68 j = 69 is  sixty nine is size 0, 5, 4 =  9
+ hunSize, tenSize, oneSize = 0, 5, 4
+i = 69 j = 70 is  seventy is size 0, 7, 0 =  7
+ hunSize, tenSize, oneSize = 0, 7, 0
+i = 70 j = 71 is  seventy one is size 0, 7, 3 =  10
+ hunSize, tenSize, oneSize = 0, 7, 3
+i = 71 j = 72 is  seventy two is size 0, 7, 3 =  10
+ hunSize, tenSize, oneSize = 0, 7, 3
+i = 72 j = 73 is  seventy three is size 0, 7, 5 =  12
+ hunSize, tenSize, oneSize = 0, 7, 5
+i = 73 j = 74 is  seventy four is size 0, 7, 4 =  11
+ hunSize, tenSize, oneSize = 0, 7, 4
+i = 74 j = 75 is  seventy five is size 0, 7, 4 =  11
+ hunSize, tenSize, oneSize = 0, 7, 4
+i = 75 j = 76 is  seventy six is size 0, 7, 3 =  10
+ hunSize, tenSize, oneSize = 0, 7, 3
+i = 76 j = 77 is  seventy seven is size 0, 7, 5 =  12
+ hunSize, tenSize, oneSize = 0, 7, 5
+i = 77 j = 78 is  seventy eight is size 0, 7, 5 =  12
+ hunSize, tenSize, oneSize = 0, 7, 5
+i = 78 j = 79 is  seventy nine is size 0, 7, 4 =  11
+ hunSize, tenSize, oneSize = 0, 7, 4
+i = 79 j = 80 is  eighty is size 0, 6, 0 =  6
+ hunSize, tenSize, oneSize = 0, 6, 0
+i = 80 j = 81 is  eighty one is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 81 j = 82 is  eighty two is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 82 j = 83 is  eighty three is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 83 j = 84 is  eighty four is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 84 j = 85 is  eighty five is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 85 j = 86 is  eighty six is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 86 j = 87 is  eighty seven is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 87 j = 88 is  eighty eight is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 88 j = 89 is  eighty nine is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 89 j = 90 is  ninety is size 0, 6, 0 =  6
+ hunSize, tenSize, oneSize = 0, 6, 0
+i = 90 j = 91 is  ninety one is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 91 j = 92 is  ninety two is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 92 j = 93 is  ninety three is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 93 j = 94 is  ninety four is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 94 j = 95 is  ninety five is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 95 j = 96 is  ninety six is size 0, 6, 3 =  9
+ hunSize, tenSize, oneSize = 0, 6, 3
+i = 96 j = 97 is  ninety seven is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 97 j = 98 is  ninety eight is size 0, 6, 5 =  11
+ hunSize, tenSize, oneSize = 0, 6, 5
+i = 98 j = 99 is  ninety nine is size 0, 6, 4 =  10
+ hunSize, tenSize, oneSize = 0, 6, 4
+i = 99 j = 100 is one hundred is size 10, 0, 0 =  10
+ hunSize, tenSize, oneSize = 10, 0, 0
+i = 100 j = 101 is one hundred and one is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 101 j = 102 is one hundred and two is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 102 j = 103 is one hundred and three is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 103 j = 104 is one hundred and four is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 104 j = 105 is one hundred and five is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 105 j = 106 is one hundred and six is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 106 j = 107 is one hundred and seven is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 107 j = 108 is one hundred and eight is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 108 j = 109 is one hundred and nine is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 109 j = 110 is one hundred and ten is size 13, 3, 0 =  16
+ hunSize, tenSize, oneSize = 13, 3, 0
+i = 110 j = 111 is one hundred and eleven one is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 111 j = 112 is one hundred and twelve two is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 112 j = 113 is one hundred and thirteen three is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 113 j = 114 is one hundred and fourteen four is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 114 j = 115 is one hundred and fifteen five is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 115 j = 116 is one hundred and sixteen six is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 116 j = 117 is one hundred and seventeen seven is size 13, 9, 0 =  22
+ hunSize, tenSize, oneSize = 13, 9, 0
+i = 117 j = 118 is one hundred and eighteen eight is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 118 j = 119 is one hundred and nineteen nine is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 119 j = 120 is one hundred and twenty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 120 j = 121 is one hundred and twenty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 121 j = 122 is one hundred and twenty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 122 j = 123 is one hundred and twenty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 123 j = 124 is one hundred and twenty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 124 j = 125 is one hundred and twenty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 125 j = 126 is one hundred and twenty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 126 j = 127 is one hundred and twenty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 127 j = 128 is one hundred and twenty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 128 j = 129 is one hundred and twenty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 129 j = 130 is one hundred and thirty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 130 j = 131 is one hundred and thirty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 131 j = 132 is one hundred and thirty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 132 j = 133 is one hundred and thirty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 133 j = 134 is one hundred and thirty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 134 j = 135 is one hundred and thirty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 135 j = 136 is one hundred and thirty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 136 j = 137 is one hundred and thirty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 137 j = 138 is one hundred and thirty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 138 j = 139 is one hundred and thirty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 139 j = 140 is one hundred and forty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 140 j = 141 is one hundred and forty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 141 j = 142 is one hundred and forty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 142 j = 143 is one hundred and forty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 143 j = 144 is one hundred and forty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 144 j = 145 is one hundred and forty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 145 j = 146 is one hundred and forty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 146 j = 147 is one hundred and forty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 147 j = 148 is one hundred and forty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 148 j = 149 is one hundred and forty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 149 j = 150 is one hundred and fifty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 150 j = 151 is one hundred and fifty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 151 j = 152 is one hundred and fifty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 152 j = 153 is one hundred and fifty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 153 j = 154 is one hundred and fifty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 154 j = 155 is one hundred and fifty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 155 j = 156 is one hundred and fifty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 156 j = 157 is one hundred and fifty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 157 j = 158 is one hundred and fifty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 158 j = 159 is one hundred and fifty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 159 j = 160 is one hundred and sixty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 160 j = 161 is one hundred and sixty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 161 j = 162 is one hundred and sixty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 162 j = 163 is one hundred and sixty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 163 j = 164 is one hundred and sixty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 164 j = 165 is one hundred and sixty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 165 j = 166 is one hundred and sixty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 166 j = 167 is one hundred and sixty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 167 j = 168 is one hundred and sixty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 168 j = 169 is one hundred and sixty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 169 j = 170 is one hundred and seventy is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 170 j = 171 is one hundred and seventy one is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 171 j = 172 is one hundred and seventy two is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 172 j = 173 is one hundred and seventy three is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 173 j = 174 is one hundred and seventy four is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 174 j = 175 is one hundred and seventy five is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 175 j = 176 is one hundred and seventy six is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 176 j = 177 is one hundred and seventy seven is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 177 j = 178 is one hundred and seventy eight is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 178 j = 179 is one hundred and seventy nine is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 179 j = 180 is one hundred and eighty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 180 j = 181 is one hundred and eighty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 181 j = 182 is one hundred and eighty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 182 j = 183 is one hundred and eighty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 183 j = 184 is one hundred and eighty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 184 j = 185 is one hundred and eighty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 185 j = 186 is one hundred and eighty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 186 j = 187 is one hundred and eighty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 187 j = 188 is one hundred and eighty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 188 j = 189 is one hundred and eighty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 189 j = 190 is one hundred and ninety is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 190 j = 191 is one hundred and ninety one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 191 j = 192 is one hundred and ninety two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 192 j = 193 is one hundred and ninety three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 193 j = 194 is one hundred and ninety four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 194 j = 195 is one hundred and ninety five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 195 j = 196 is one hundred and ninety six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 196 j = 197 is one hundred and ninety seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 197 j = 198 is one hundred and ninety eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 198 j = 199 is one hundred and ninety nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 199 j = 200 is two hundred is size 10, 0, 0 =  10
+ hunSize, tenSize, oneSize = 10, 0, 0
+i = 200 j = 201 is two hundred and one is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 201 j = 202 is two hundred and two is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 202 j = 203 is two hundred and three is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 203 j = 204 is two hundred and four is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 204 j = 205 is two hundred and five is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 205 j = 206 is two hundred and six is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 206 j = 207 is two hundred and seven is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 207 j = 208 is two hundred and eight is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 208 j = 209 is two hundred and nine is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 209 j = 210 is two hundred and ten is size 13, 3, 0 =  16
+ hunSize, tenSize, oneSize = 13, 3, 0
+i = 210 j = 211 is two hundred and eleven one is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 211 j = 212 is two hundred and twelve two is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 212 j = 213 is two hundred and thirteen three is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 213 j = 214 is two hundred and fourteen four is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 214 j = 215 is two hundred and fifteen five is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 215 j = 216 is two hundred and sixteen six is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 216 j = 217 is two hundred and seventeen seven is size 13, 9, 0 =  22
+ hunSize, tenSize, oneSize = 13, 9, 0
+i = 217 j = 218 is two hundred and eighteen eight is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 218 j = 219 is two hundred and nineteen nine is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 219 j = 220 is two hundred and twenty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 220 j = 221 is two hundred and twenty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 221 j = 222 is two hundred and twenty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 222 j = 223 is two hundred and twenty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 223 j = 224 is two hundred and twenty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 224 j = 225 is two hundred and twenty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 225 j = 226 is two hundred and twenty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 226 j = 227 is two hundred and twenty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 227 j = 228 is two hundred and twenty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 228 j = 229 is two hundred and twenty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 229 j = 230 is two hundred and thirty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 230 j = 231 is two hundred and thirty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 231 j = 232 is two hundred and thirty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 232 j = 233 is two hundred and thirty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 233 j = 234 is two hundred and thirty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 234 j = 235 is two hundred and thirty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 235 j = 236 is two hundred and thirty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 236 j = 237 is two hundred and thirty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 237 j = 238 is two hundred and thirty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 238 j = 239 is two hundred and thirty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 239 j = 240 is two hundred and forty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 240 j = 241 is two hundred and forty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 241 j = 242 is two hundred and forty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 242 j = 243 is two hundred and forty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 243 j = 244 is two hundred and forty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 244 j = 245 is two hundred and forty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 245 j = 246 is two hundred and forty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 246 j = 247 is two hundred and forty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 247 j = 248 is two hundred and forty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 248 j = 249 is two hundred and forty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 249 j = 250 is two hundred and fifty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 250 j = 251 is two hundred and fifty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 251 j = 252 is two hundred and fifty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 252 j = 253 is two hundred and fifty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 253 j = 254 is two hundred and fifty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 254 j = 255 is two hundred and fifty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 255 j = 256 is two hundred and fifty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 256 j = 257 is two hundred and fifty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 257 j = 258 is two hundred and fifty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 258 j = 259 is two hundred and fifty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 259 j = 260 is two hundred and sixty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 260 j = 261 is two hundred and sixty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 261 j = 262 is two hundred and sixty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 262 j = 263 is two hundred and sixty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 263 j = 264 is two hundred and sixty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 264 j = 265 is two hundred and sixty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 265 j = 266 is two hundred and sixty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 266 j = 267 is two hundred and sixty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 267 j = 268 is two hundred and sixty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 268 j = 269 is two hundred and sixty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 269 j = 270 is two hundred and seventy is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 270 j = 271 is two hundred and seventy one is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 271 j = 272 is two hundred and seventy two is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 272 j = 273 is two hundred and seventy three is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 273 j = 274 is two hundred and seventy four is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 274 j = 275 is two hundred and seventy five is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 275 j = 276 is two hundred and seventy six is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 276 j = 277 is two hundred and seventy seven is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 277 j = 278 is two hundred and seventy eight is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 278 j = 279 is two hundred and seventy nine is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 279 j = 280 is two hundred and eighty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 280 j = 281 is two hundred and eighty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 281 j = 282 is two hundred and eighty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 282 j = 283 is two hundred and eighty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 283 j = 284 is two hundred and eighty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 284 j = 285 is two hundred and eighty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 285 j = 286 is two hundred and eighty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 286 j = 287 is two hundred and eighty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 287 j = 288 is two hundred and eighty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 288 j = 289 is two hundred and eighty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 289 j = 290 is two hundred and ninety is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 290 j = 291 is two hundred and ninety one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 291 j = 292 is two hundred and ninety two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 292 j = 293 is two hundred and ninety three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 293 j = 294 is two hundred and ninety four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 294 j = 295 is two hundred and ninety five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 295 j = 296 is two hundred and ninety six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 296 j = 297 is two hundred and ninety seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 297 j = 298 is two hundred and ninety eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 298 j = 299 is two hundred and ninety nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 299 j = 300 is three hundred is size 12, 0, 0 =  12
+ hunSize, tenSize, oneSize = 12, 0, 0
+i = 300 j = 301 is three hundred and one is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 301 j = 302 is three hundred and two is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 302 j = 303 is three hundred and three is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 303 j = 304 is three hundred and four is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 304 j = 305 is three hundred and five is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 305 j = 306 is three hundred and six is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 306 j = 307 is three hundred and seven is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 307 j = 308 is three hundred and eight is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 308 j = 309 is three hundred and nine is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 309 j = 310 is three hundred and ten is size 15, 3, 0 =  18
+ hunSize, tenSize, oneSize = 15, 3, 0
+i = 310 j = 311 is three hundred and eleven one is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 311 j = 312 is three hundred and twelve two is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 312 j = 313 is three hundred and thirteen three is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 313 j = 314 is three hundred and fourteen four is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 314 j = 315 is three hundred and fifteen five is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 315 j = 316 is three hundred and sixteen six is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 316 j = 317 is three hundred and seventeen seven is size 15, 9, 0 =  24
+ hunSize, tenSize, oneSize = 15, 9, 0
+i = 317 j = 318 is three hundred and eighteen eight is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 318 j = 319 is three hundred and nineteen nine is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 319 j = 320 is three hundred and twenty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 320 j = 321 is three hundred and twenty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 321 j = 322 is three hundred and twenty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 322 j = 323 is three hundred and twenty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 323 j = 324 is three hundred and twenty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 324 j = 325 is three hundred and twenty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 325 j = 326 is three hundred and twenty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 326 j = 327 is three hundred and twenty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 327 j = 328 is three hundred and twenty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 328 j = 329 is three hundred and twenty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 329 j = 330 is three hundred and thirty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 330 j = 331 is three hundred and thirty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 331 j = 332 is three hundred and thirty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 332 j = 333 is three hundred and thirty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 333 j = 334 is three hundred and thirty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 334 j = 335 is three hundred and thirty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 335 j = 336 is three hundred and thirty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 336 j = 337 is three hundred and thirty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 337 j = 338 is three hundred and thirty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 338 j = 339 is three hundred and thirty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 339 j = 340 is three hundred and forty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 340 j = 341 is three hundred and forty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 341 j = 342 is three hundred and forty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 342 j = 343 is three hundred and forty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 343 j = 344 is three hundred and forty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 344 j = 345 is three hundred and forty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 345 j = 346 is three hundred and forty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 346 j = 347 is three hundred and forty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 347 j = 348 is three hundred and forty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 348 j = 349 is three hundred and forty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 349 j = 350 is three hundred and fifty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 350 j = 351 is three hundred and fifty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 351 j = 352 is three hundred and fifty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 352 j = 353 is three hundred and fifty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 353 j = 354 is three hundred and fifty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 354 j = 355 is three hundred and fifty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 355 j = 356 is three hundred and fifty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 356 j = 357 is three hundred and fifty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 357 j = 358 is three hundred and fifty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 358 j = 359 is three hundred and fifty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 359 j = 360 is three hundred and sixty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 360 j = 361 is three hundred and sixty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 361 j = 362 is three hundred and sixty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 362 j = 363 is three hundred and sixty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 363 j = 364 is three hundred and sixty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 364 j = 365 is three hundred and sixty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 365 j = 366 is three hundred and sixty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 366 j = 367 is three hundred and sixty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 367 j = 368 is three hundred and sixty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 368 j = 369 is three hundred and sixty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 369 j = 370 is three hundred and seventy is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 370 j = 371 is three hundred and seventy one is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 371 j = 372 is three hundred and seventy two is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 372 j = 373 is three hundred and seventy three is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 373 j = 374 is three hundred and seventy four is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 374 j = 375 is three hundred and seventy five is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 375 j = 376 is three hundred and seventy six is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 376 j = 377 is three hundred and seventy seven is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 377 j = 378 is three hundred and seventy eight is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 378 j = 379 is three hundred and seventy nine is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 379 j = 380 is three hundred and eighty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 380 j = 381 is three hundred and eighty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 381 j = 382 is three hundred and eighty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 382 j = 383 is three hundred and eighty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 383 j = 384 is three hundred and eighty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 384 j = 385 is three hundred and eighty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 385 j = 386 is three hundred and eighty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 386 j = 387 is three hundred and eighty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 387 j = 388 is three hundred and eighty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 388 j = 389 is three hundred and eighty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 389 j = 390 is three hundred and ninety is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 390 j = 391 is three hundred and ninety one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 391 j = 392 is three hundred and ninety two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 392 j = 393 is three hundred and ninety three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 393 j = 394 is three hundred and ninety four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 394 j = 395 is three hundred and ninety five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 395 j = 396 is three hundred and ninety six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 396 j = 397 is three hundred and ninety seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 397 j = 398 is three hundred and ninety eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 398 j = 399 is three hundred and ninety nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 399 j = 400 is four hundred is size 11, 0, 0 =  11
+ hunSize, tenSize, oneSize = 11, 0, 0
+i = 400 j = 401 is four hundred and one is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 401 j = 402 is four hundred and two is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 402 j = 403 is four hundred and three is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 403 j = 404 is four hundred and four is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 404 j = 405 is four hundred and five is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 405 j = 406 is four hundred and six is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 406 j = 407 is four hundred and seven is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 407 j = 408 is four hundred and eight is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 408 j = 409 is four hundred and nine is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 409 j = 410 is four hundred and ten is size 14, 3, 0 =  17
+ hunSize, tenSize, oneSize = 14, 3, 0
+i = 410 j = 411 is four hundred and eleven one is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 411 j = 412 is four hundred and twelve two is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 412 j = 413 is four hundred and thirteen three is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 413 j = 414 is four hundred and fourteen four is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 414 j = 415 is four hundred and fifteen five is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 415 j = 416 is four hundred and sixteen six is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 416 j = 417 is four hundred and seventeen seven is size 14, 9, 0 =  23
+ hunSize, tenSize, oneSize = 14, 9, 0
+i = 417 j = 418 is four hundred and eighteen eight is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 418 j = 419 is four hundred and nineteen nine is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 419 j = 420 is four hundred and twenty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 420 j = 421 is four hundred and twenty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 421 j = 422 is four hundred and twenty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 422 j = 423 is four hundred and twenty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 423 j = 424 is four hundred and twenty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 424 j = 425 is four hundred and twenty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 425 j = 426 is four hundred and twenty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 426 j = 427 is four hundred and twenty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 427 j = 428 is four hundred and twenty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 428 j = 429 is four hundred and twenty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 429 j = 430 is four hundred and thirty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 430 j = 431 is four hundred and thirty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 431 j = 432 is four hundred and thirty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 432 j = 433 is four hundred and thirty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 433 j = 434 is four hundred and thirty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 434 j = 435 is four hundred and thirty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 435 j = 436 is four hundred and thirty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 436 j = 437 is four hundred and thirty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 437 j = 438 is four hundred and thirty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 438 j = 439 is four hundred and thirty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 439 j = 440 is four hundred and forty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 440 j = 441 is four hundred and forty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 441 j = 442 is four hundred and forty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 442 j = 443 is four hundred and forty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 443 j = 444 is four hundred and forty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 444 j = 445 is four hundred and forty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 445 j = 446 is four hundred and forty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 446 j = 447 is four hundred and forty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 447 j = 448 is four hundred and forty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 448 j = 449 is four hundred and forty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 449 j = 450 is four hundred and fifty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 450 j = 451 is four hundred and fifty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 451 j = 452 is four hundred and fifty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 452 j = 453 is four hundred and fifty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 453 j = 454 is four hundred and fifty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 454 j = 455 is four hundred and fifty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 455 j = 456 is four hundred and fifty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 456 j = 457 is four hundred and fifty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 457 j = 458 is four hundred and fifty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 458 j = 459 is four hundred and fifty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 459 j = 460 is four hundred and sixty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 460 j = 461 is four hundred and sixty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 461 j = 462 is four hundred and sixty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 462 j = 463 is four hundred and sixty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 463 j = 464 is four hundred and sixty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 464 j = 465 is four hundred and sixty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 465 j = 466 is four hundred and sixty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 466 j = 467 is four hundred and sixty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 467 j = 468 is four hundred and sixty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 468 j = 469 is four hundred and sixty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 469 j = 470 is four hundred and seventy is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 470 j = 471 is four hundred and seventy one is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 471 j = 472 is four hundred and seventy two is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 472 j = 473 is four hundred and seventy three is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 473 j = 474 is four hundred and seventy four is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 474 j = 475 is four hundred and seventy five is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 475 j = 476 is four hundred and seventy six is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 476 j = 477 is four hundred and seventy seven is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 477 j = 478 is four hundred and seventy eight is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 478 j = 479 is four hundred and seventy nine is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 479 j = 480 is four hundred and eighty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 480 j = 481 is four hundred and eighty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 481 j = 482 is four hundred and eighty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 482 j = 483 is four hundred and eighty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 483 j = 484 is four hundred and eighty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 484 j = 485 is four hundred and eighty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 485 j = 486 is four hundred and eighty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 486 j = 487 is four hundred and eighty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 487 j = 488 is four hundred and eighty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 488 j = 489 is four hundred and eighty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 489 j = 490 is four hundred and ninety is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 490 j = 491 is four hundred and ninety one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 491 j = 492 is four hundred and ninety two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 492 j = 493 is four hundred and ninety three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 493 j = 494 is four hundred and ninety four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 494 j = 495 is four hundred and ninety five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 495 j = 496 is four hundred and ninety six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 496 j = 497 is four hundred and ninety seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 497 j = 498 is four hundred and ninety eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 498 j = 499 is four hundred and ninety nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 499 j = 500 is five hundred is size 11, 0, 0 =  11
+ hunSize, tenSize, oneSize = 11, 0, 0
+i = 500 j = 501 is five hundred and one is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 501 j = 502 is five hundred and two is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 502 j = 503 is five hundred and three is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 503 j = 504 is five hundred and four is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 504 j = 505 is five hundred and five is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 505 j = 506 is five hundred and six is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 506 j = 507 is five hundred and seven is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 507 j = 508 is five hundred and eight is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 508 j = 509 is five hundred and nine is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 509 j = 510 is five hundred and ten is size 14, 3, 0 =  17
+ hunSize, tenSize, oneSize = 14, 3, 0
+i = 510 j = 511 is five hundred and eleven one is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 511 j = 512 is five hundred and twelve two is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 512 j = 513 is five hundred and thirteen three is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 513 j = 514 is five hundred and fourteen four is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 514 j = 515 is five hundred and fifteen five is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 515 j = 516 is five hundred and sixteen six is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 516 j = 517 is five hundred and seventeen seven is size 14, 9, 0 =  23
+ hunSize, tenSize, oneSize = 14, 9, 0
+i = 517 j = 518 is five hundred and eighteen eight is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 518 j = 519 is five hundred and nineteen nine is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 519 j = 520 is five hundred and twenty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 520 j = 521 is five hundred and twenty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 521 j = 522 is five hundred and twenty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 522 j = 523 is five hundred and twenty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 523 j = 524 is five hundred and twenty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 524 j = 525 is five hundred and twenty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 525 j = 526 is five hundred and twenty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 526 j = 527 is five hundred and twenty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 527 j = 528 is five hundred and twenty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 528 j = 529 is five hundred and twenty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 529 j = 530 is five hundred and thirty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 530 j = 531 is five hundred and thirty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 531 j = 532 is five hundred and thirty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 532 j = 533 is five hundred and thirty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 533 j = 534 is five hundred and thirty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 534 j = 535 is five hundred and thirty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 535 j = 536 is five hundred and thirty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 536 j = 537 is five hundred and thirty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 537 j = 538 is five hundred and thirty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 538 j = 539 is five hundred and thirty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 539 j = 540 is five hundred and forty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 540 j = 541 is five hundred and forty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 541 j = 542 is five hundred and forty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 542 j = 543 is five hundred and forty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 543 j = 544 is five hundred and forty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 544 j = 545 is five hundred and forty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 545 j = 546 is five hundred and forty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 546 j = 547 is five hundred and forty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 547 j = 548 is five hundred and forty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 548 j = 549 is five hundred and forty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 549 j = 550 is five hundred and fifty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 550 j = 551 is five hundred and fifty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 551 j = 552 is five hundred and fifty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 552 j = 553 is five hundred and fifty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 553 j = 554 is five hundred and fifty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 554 j = 555 is five hundred and fifty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 555 j = 556 is five hundred and fifty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 556 j = 557 is five hundred and fifty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 557 j = 558 is five hundred and fifty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 558 j = 559 is five hundred and fifty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 559 j = 560 is five hundred and sixty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 560 j = 561 is five hundred and sixty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 561 j = 562 is five hundred and sixty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 562 j = 563 is five hundred and sixty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 563 j = 564 is five hundred and sixty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 564 j = 565 is five hundred and sixty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 565 j = 566 is five hundred and sixty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 566 j = 567 is five hundred and sixty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 567 j = 568 is five hundred and sixty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 568 j = 569 is five hundred and sixty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 569 j = 570 is five hundred and seventy is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 570 j = 571 is five hundred and seventy one is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 571 j = 572 is five hundred and seventy two is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 572 j = 573 is five hundred and seventy three is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 573 j = 574 is five hundred and seventy four is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 574 j = 575 is five hundred and seventy five is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 575 j = 576 is five hundred and seventy six is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 576 j = 577 is five hundred and seventy seven is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 577 j = 578 is five hundred and seventy eight is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 578 j = 579 is five hundred and seventy nine is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 579 j = 580 is five hundred and eighty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 580 j = 581 is five hundred and eighty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 581 j = 582 is five hundred and eighty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 582 j = 583 is five hundred and eighty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 583 j = 584 is five hundred and eighty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 584 j = 585 is five hundred and eighty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 585 j = 586 is five hundred and eighty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 586 j = 587 is five hundred and eighty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 587 j = 588 is five hundred and eighty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 588 j = 589 is five hundred and eighty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 589 j = 590 is five hundred and ninety is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 590 j = 591 is five hundred and ninety one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 591 j = 592 is five hundred and ninety two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 592 j = 593 is five hundred and ninety three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 593 j = 594 is five hundred and ninety four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 594 j = 595 is five hundred and ninety five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 595 j = 596 is five hundred and ninety six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 596 j = 597 is five hundred and ninety seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 597 j = 598 is five hundred and ninety eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 598 j = 599 is five hundred and ninety nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 599 j = 600 is six hundred is size 10, 0, 0 =  10
+ hunSize, tenSize, oneSize = 10, 0, 0
+i = 600 j = 601 is six hundred and one is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 601 j = 602 is six hundred and two is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 602 j = 603 is six hundred and three is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 603 j = 604 is six hundred and four is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 604 j = 605 is six hundred and five is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 605 j = 606 is six hundred and six is size 13, 0, 3 =  16
+ hunSize, tenSize, oneSize = 13, 0, 3
+i = 606 j = 607 is six hundred and seven is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 607 j = 608 is six hundred and eight is size 13, 0, 5 =  18
+ hunSize, tenSize, oneSize = 13, 0, 5
+i = 608 j = 609 is six hundred and nine is size 13, 0, 4 =  17
+ hunSize, tenSize, oneSize = 13, 0, 4
+i = 609 j = 610 is six hundred and ten is size 13, 3, 0 =  16
+ hunSize, tenSize, oneSize = 13, 3, 0
+i = 610 j = 611 is six hundred and eleven one is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 611 j = 612 is six hundred and twelve two is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 612 j = 613 is six hundred and thirteen three is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 613 j = 614 is six hundred and fourteen four is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 614 j = 615 is six hundred and fifteen five is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 615 j = 616 is six hundred and sixteen six is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 616 j = 617 is six hundred and seventeen seven is size 13, 9, 0 =  22
+ hunSize, tenSize, oneSize = 13, 9, 0
+i = 617 j = 618 is six hundred and eighteen eight is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 618 j = 619 is six hundred and nineteen nine is size 13, 8, 0 =  21
+ hunSize, tenSize, oneSize = 13, 8, 0
+i = 619 j = 620 is six hundred and twenty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 620 j = 621 is six hundred and twenty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 621 j = 622 is six hundred and twenty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 622 j = 623 is six hundred and twenty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 623 j = 624 is six hundred and twenty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 624 j = 625 is six hundred and twenty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 625 j = 626 is six hundred and twenty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 626 j = 627 is six hundred and twenty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 627 j = 628 is six hundred and twenty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 628 j = 629 is six hundred and twenty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 629 j = 630 is six hundred and thirty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 630 j = 631 is six hundred and thirty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 631 j = 632 is six hundred and thirty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 632 j = 633 is six hundred and thirty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 633 j = 634 is six hundred and thirty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 634 j = 635 is six hundred and thirty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 635 j = 636 is six hundred and thirty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 636 j = 637 is six hundred and thirty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 637 j = 638 is six hundred and thirty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 638 j = 639 is six hundred and thirty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 639 j = 640 is six hundred and forty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 640 j = 641 is six hundred and forty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 641 j = 642 is six hundred and forty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 642 j = 643 is six hundred and forty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 643 j = 644 is six hundred and forty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 644 j = 645 is six hundred and forty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 645 j = 646 is six hundred and forty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 646 j = 647 is six hundred and forty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 647 j = 648 is six hundred and forty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 648 j = 649 is six hundred and forty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 649 j = 650 is six hundred and fifty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 650 j = 651 is six hundred and fifty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 651 j = 652 is six hundred and fifty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 652 j = 653 is six hundred and fifty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 653 j = 654 is six hundred and fifty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 654 j = 655 is six hundred and fifty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 655 j = 656 is six hundred and fifty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 656 j = 657 is six hundred and fifty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 657 j = 658 is six hundred and fifty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 658 j = 659 is six hundred and fifty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 659 j = 660 is six hundred and sixty is size 13, 5, 0 =  18
+ hunSize, tenSize, oneSize = 13, 5, 0
+i = 660 j = 661 is six hundred and sixty one is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 661 j = 662 is six hundred and sixty two is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 662 j = 663 is six hundred and sixty three is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 663 j = 664 is six hundred and sixty four is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 664 j = 665 is six hundred and sixty five is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 665 j = 666 is six hundred and sixty six is size 13, 5, 3 =  21
+ hunSize, tenSize, oneSize = 13, 5, 3
+i = 666 j = 667 is six hundred and sixty seven is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 667 j = 668 is six hundred and sixty eight is size 13, 5, 5 =  23
+ hunSize, tenSize, oneSize = 13, 5, 5
+i = 668 j = 669 is six hundred and sixty nine is size 13, 5, 4 =  22
+ hunSize, tenSize, oneSize = 13, 5, 4
+i = 669 j = 670 is six hundred and seventy is size 13, 7, 0 =  20
+ hunSize, tenSize, oneSize = 13, 7, 0
+i = 670 j = 671 is six hundred and seventy one is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 671 j = 672 is six hundred and seventy two is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 672 j = 673 is six hundred and seventy three is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 673 j = 674 is six hundred and seventy four is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 674 j = 675 is six hundred and seventy five is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 675 j = 676 is six hundred and seventy six is size 13, 7, 3 =  23
+ hunSize, tenSize, oneSize = 13, 7, 3
+i = 676 j = 677 is six hundred and seventy seven is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 677 j = 678 is six hundred and seventy eight is size 13, 7, 5 =  25
+ hunSize, tenSize, oneSize = 13, 7, 5
+i = 678 j = 679 is six hundred and seventy nine is size 13, 7, 4 =  24
+ hunSize, tenSize, oneSize = 13, 7, 4
+i = 679 j = 680 is six hundred and eighty is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 680 j = 681 is six hundred and eighty one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 681 j = 682 is six hundred and eighty two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 682 j = 683 is six hundred and eighty three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 683 j = 684 is six hundred and eighty four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 684 j = 685 is six hundred and eighty five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 685 j = 686 is six hundred and eighty six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 686 j = 687 is six hundred and eighty seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 687 j = 688 is six hundred and eighty eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 688 j = 689 is six hundred and eighty nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 689 j = 690 is six hundred and ninety is size 13, 6, 0 =  19
+ hunSize, tenSize, oneSize = 13, 6, 0
+i = 690 j = 691 is six hundred and ninety one is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 691 j = 692 is six hundred and ninety two is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 692 j = 693 is six hundred and ninety three is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 693 j = 694 is six hundred and ninety four is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 694 j = 695 is six hundred and ninety five is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 695 j = 696 is six hundred and ninety six is size 13, 6, 3 =  22
+ hunSize, tenSize, oneSize = 13, 6, 3
+i = 696 j = 697 is six hundred and ninety seven is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 697 j = 698 is six hundred and ninety eight is size 13, 6, 5 =  24
+ hunSize, tenSize, oneSize = 13, 6, 5
+i = 698 j = 699 is six hundred and ninety nine is size 13, 6, 4 =  23
+ hunSize, tenSize, oneSize = 13, 6, 4
+i = 699 j = 700 is seven hundred is size 12, 0, 0 =  12
+ hunSize, tenSize, oneSize = 12, 0, 0
+i = 700 j = 701 is seven hundred and one is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 701 j = 702 is seven hundred and two is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 702 j = 703 is seven hundred and three is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 703 j = 704 is seven hundred and four is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 704 j = 705 is seven hundred and five is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 705 j = 706 is seven hundred and six is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 706 j = 707 is seven hundred and seven is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 707 j = 708 is seven hundred and eight is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 708 j = 709 is seven hundred and nine is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 709 j = 710 is seven hundred and ten is size 15, 3, 0 =  18
+ hunSize, tenSize, oneSize = 15, 3, 0
+i = 710 j = 711 is seven hundred and eleven one is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 711 j = 712 is seven hundred and twelve two is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 712 j = 713 is seven hundred and thirteen three is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 713 j = 714 is seven hundred and fourteen four is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 714 j = 715 is seven hundred and fifteen five is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 715 j = 716 is seven hundred and sixteen six is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 716 j = 717 is seven hundred and seventeen seven is size 15, 9, 0 =  24
+ hunSize, tenSize, oneSize = 15, 9, 0
+i = 717 j = 718 is seven hundred and eighteen eight is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 718 j = 719 is seven hundred and nineteen nine is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 719 j = 720 is seven hundred and twenty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 720 j = 721 is seven hundred and twenty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 721 j = 722 is seven hundred and twenty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 722 j = 723 is seven hundred and twenty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 723 j = 724 is seven hundred and twenty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 724 j = 725 is seven hundred and twenty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 725 j = 726 is seven hundred and twenty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 726 j = 727 is seven hundred and twenty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 727 j = 728 is seven hundred and twenty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 728 j = 729 is seven hundred and twenty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 729 j = 730 is seven hundred and thirty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 730 j = 731 is seven hundred and thirty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 731 j = 732 is seven hundred and thirty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 732 j = 733 is seven hundred and thirty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 733 j = 734 is seven hundred and thirty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 734 j = 735 is seven hundred and thirty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 735 j = 736 is seven hundred and thirty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 736 j = 737 is seven hundred and thirty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 737 j = 738 is seven hundred and thirty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 738 j = 739 is seven hundred and thirty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 739 j = 740 is seven hundred and forty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 740 j = 741 is seven hundred and forty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 741 j = 742 is seven hundred and forty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 742 j = 743 is seven hundred and forty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 743 j = 744 is seven hundred and forty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 744 j = 745 is seven hundred and forty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 745 j = 746 is seven hundred and forty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 746 j = 747 is seven hundred and forty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 747 j = 748 is seven hundred and forty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 748 j = 749 is seven hundred and forty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 749 j = 750 is seven hundred and fifty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 750 j = 751 is seven hundred and fifty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 751 j = 752 is seven hundred and fifty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 752 j = 753 is seven hundred and fifty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 753 j = 754 is seven hundred and fifty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 754 j = 755 is seven hundred and fifty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 755 j = 756 is seven hundred and fifty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 756 j = 757 is seven hundred and fifty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 757 j = 758 is seven hundred and fifty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 758 j = 759 is seven hundred and fifty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 759 j = 760 is seven hundred and sixty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 760 j = 761 is seven hundred and sixty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 761 j = 762 is seven hundred and sixty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 762 j = 763 is seven hundred and sixty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 763 j = 764 is seven hundred and sixty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 764 j = 765 is seven hundred and sixty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 765 j = 766 is seven hundred and sixty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 766 j = 767 is seven hundred and sixty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 767 j = 768 is seven hundred and sixty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 768 j = 769 is seven hundred and sixty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 769 j = 770 is seven hundred and seventy is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 770 j = 771 is seven hundred and seventy one is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 771 j = 772 is seven hundred and seventy two is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 772 j = 773 is seven hundred and seventy three is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 773 j = 774 is seven hundred and seventy four is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 774 j = 775 is seven hundred and seventy five is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 775 j = 776 is seven hundred and seventy six is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 776 j = 777 is seven hundred and seventy seven is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 777 j = 778 is seven hundred and seventy eight is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 778 j = 779 is seven hundred and seventy nine is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 779 j = 780 is seven hundred and eighty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 780 j = 781 is seven hundred and eighty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 781 j = 782 is seven hundred and eighty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 782 j = 783 is seven hundred and eighty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 783 j = 784 is seven hundred and eighty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 784 j = 785 is seven hundred and eighty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 785 j = 786 is seven hundred and eighty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 786 j = 787 is seven hundred and eighty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 787 j = 788 is seven hundred and eighty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 788 j = 789 is seven hundred and eighty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 789 j = 790 is seven hundred and ninety is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 790 j = 791 is seven hundred and ninety one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 791 j = 792 is seven hundred and ninety two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 792 j = 793 is seven hundred and ninety three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 793 j = 794 is seven hundred and ninety four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 794 j = 795 is seven hundred and ninety five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 795 j = 796 is seven hundred and ninety six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 796 j = 797 is seven hundred and ninety seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 797 j = 798 is seven hundred and ninety eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 798 j = 799 is seven hundred and ninety nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 799 j = 800 is eight hundred is size 12, 0, 0 =  12
+ hunSize, tenSize, oneSize = 12, 0, 0
+i = 800 j = 801 is eight hundred and one is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 801 j = 802 is eight hundred and two is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 802 j = 803 is eight hundred and three is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 803 j = 804 is eight hundred and four is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 804 j = 805 is eight hundred and five is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 805 j = 806 is eight hundred and six is size 15, 0, 3 =  18
+ hunSize, tenSize, oneSize = 15, 0, 3
+i = 806 j = 807 is eight hundred and seven is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 807 j = 808 is eight hundred and eight is size 15, 0, 5 =  20
+ hunSize, tenSize, oneSize = 15, 0, 5
+i = 808 j = 809 is eight hundred and nine is size 15, 0, 4 =  19
+ hunSize, tenSize, oneSize = 15, 0, 4
+i = 809 j = 810 is eight hundred and ten is size 15, 3, 0 =  18
+ hunSize, tenSize, oneSize = 15, 3, 0
+i = 810 j = 811 is eight hundred and eleven one is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 811 j = 812 is eight hundred and twelve two is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 812 j = 813 is eight hundred and thirteen three is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 813 j = 814 is eight hundred and fourteen four is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 814 j = 815 is eight hundred and fifteen five is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 815 j = 816 is eight hundred and sixteen six is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 816 j = 817 is eight hundred and seventeen seven is size 15, 9, 0 =  24
+ hunSize, tenSize, oneSize = 15, 9, 0
+i = 817 j = 818 is eight hundred and eighteen eight is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 818 j = 819 is eight hundred and nineteen nine is size 15, 8, 0 =  23
+ hunSize, tenSize, oneSize = 15, 8, 0
+i = 819 j = 820 is eight hundred and twenty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 820 j = 821 is eight hundred and twenty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 821 j = 822 is eight hundred and twenty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 822 j = 823 is eight hundred and twenty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 823 j = 824 is eight hundred and twenty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 824 j = 825 is eight hundred and twenty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 825 j = 826 is eight hundred and twenty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 826 j = 827 is eight hundred and twenty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 827 j = 828 is eight hundred and twenty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 828 j = 829 is eight hundred and twenty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 829 j = 830 is eight hundred and thirty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 830 j = 831 is eight hundred and thirty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 831 j = 832 is eight hundred and thirty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 832 j = 833 is eight hundred and thirty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 833 j = 834 is eight hundred and thirty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 834 j = 835 is eight hundred and thirty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 835 j = 836 is eight hundred and thirty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 836 j = 837 is eight hundred and thirty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 837 j = 838 is eight hundred and thirty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 838 j = 839 is eight hundred and thirty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 839 j = 840 is eight hundred and forty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 840 j = 841 is eight hundred and forty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 841 j = 842 is eight hundred and forty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 842 j = 843 is eight hundred and forty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 843 j = 844 is eight hundred and forty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 844 j = 845 is eight hundred and forty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 845 j = 846 is eight hundred and forty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 846 j = 847 is eight hundred and forty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 847 j = 848 is eight hundred and forty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 848 j = 849 is eight hundred and forty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 849 j = 850 is eight hundred and fifty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 850 j = 851 is eight hundred and fifty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 851 j = 852 is eight hundred and fifty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 852 j = 853 is eight hundred and fifty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 853 j = 854 is eight hundred and fifty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 854 j = 855 is eight hundred and fifty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 855 j = 856 is eight hundred and fifty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 856 j = 857 is eight hundred and fifty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 857 j = 858 is eight hundred and fifty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 858 j = 859 is eight hundred and fifty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 859 j = 860 is eight hundred and sixty is size 15, 5, 0 =  20
+ hunSize, tenSize, oneSize = 15, 5, 0
+i = 860 j = 861 is eight hundred and sixty one is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 861 j = 862 is eight hundred and sixty two is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 862 j = 863 is eight hundred and sixty three is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 863 j = 864 is eight hundred and sixty four is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 864 j = 865 is eight hundred and sixty five is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 865 j = 866 is eight hundred and sixty six is size 15, 5, 3 =  23
+ hunSize, tenSize, oneSize = 15, 5, 3
+i = 866 j = 867 is eight hundred and sixty seven is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 867 j = 868 is eight hundred and sixty eight is size 15, 5, 5 =  25
+ hunSize, tenSize, oneSize = 15, 5, 5
+i = 868 j = 869 is eight hundred and sixty nine is size 15, 5, 4 =  24
+ hunSize, tenSize, oneSize = 15, 5, 4
+i = 869 j = 870 is eight hundred and seventy is size 15, 7, 0 =  22
+ hunSize, tenSize, oneSize = 15, 7, 0
+i = 870 j = 871 is eight hundred and seventy one is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 871 j = 872 is eight hundred and seventy two is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 872 j = 873 is eight hundred and seventy three is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 873 j = 874 is eight hundred and seventy four is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 874 j = 875 is eight hundred and seventy five is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 875 j = 876 is eight hundred and seventy six is size 15, 7, 3 =  25
+ hunSize, tenSize, oneSize = 15, 7, 3
+i = 876 j = 877 is eight hundred and seventy seven is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 877 j = 878 is eight hundred and seventy eight is size 15, 7, 5 =  27
+ hunSize, tenSize, oneSize = 15, 7, 5
+i = 878 j = 879 is eight hundred and seventy nine is size 15, 7, 4 =  26
+ hunSize, tenSize, oneSize = 15, 7, 4
+i = 879 j = 880 is eight hundred and eighty is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 880 j = 881 is eight hundred and eighty one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 881 j = 882 is eight hundred and eighty two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 882 j = 883 is eight hundred and eighty three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 883 j = 884 is eight hundred and eighty four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 884 j = 885 is eight hundred and eighty five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 885 j = 886 is eight hundred and eighty six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 886 j = 887 is eight hundred and eighty seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 887 j = 888 is eight hundred and eighty eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 888 j = 889 is eight hundred and eighty nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 889 j = 890 is eight hundred and ninety is size 15, 6, 0 =  21
+ hunSize, tenSize, oneSize = 15, 6, 0
+i = 890 j = 891 is eight hundred and ninety one is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 891 j = 892 is eight hundred and ninety two is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 892 j = 893 is eight hundred and ninety three is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 893 j = 894 is eight hundred and ninety four is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 894 j = 895 is eight hundred and ninety five is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 895 j = 896 is eight hundred and ninety six is size 15, 6, 3 =  24
+ hunSize, tenSize, oneSize = 15, 6, 3
+i = 896 j = 897 is eight hundred and ninety seven is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 897 j = 898 is eight hundred and ninety eight is size 15, 6, 5 =  26
+ hunSize, tenSize, oneSize = 15, 6, 5
+i = 898 j = 899 is eight hundred and ninety nine is size 15, 6, 4 =  25
+ hunSize, tenSize, oneSize = 15, 6, 4
+i = 899 j = 900 is nine hundred is size 11, 0, 0 =  11
+ hunSize, tenSize, oneSize = 11, 0, 0
+i = 900 j = 901 is nine hundred and one is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 901 j = 902 is nine hundred and two is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 902 j = 903 is nine hundred and three is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 903 j = 904 is nine hundred and four is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 904 j = 905 is nine hundred and five is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 905 j = 906 is nine hundred and six is size 14, 0, 3 =  17
+ hunSize, tenSize, oneSize = 14, 0, 3
+i = 906 j = 907 is nine hundred and seven is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 907 j = 908 is nine hundred and eight is size 14, 0, 5 =  19
+ hunSize, tenSize, oneSize = 14, 0, 5
+i = 908 j = 909 is nine hundred and nine is size 14, 0, 4 =  18
+ hunSize, tenSize, oneSize = 14, 0, 4
+i = 909 j = 910 is nine hundred and ten is size 14, 3, 0 =  17
+ hunSize, tenSize, oneSize = 14, 3, 0
+i = 910 j = 911 is nine hundred and eleven one is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 911 j = 912 is nine hundred and twelve two is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 912 j = 913 is nine hundred and thirteen three is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 913 j = 914 is nine hundred and fourteen four is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 914 j = 915 is nine hundred and fifteen five is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 915 j = 916 is nine hundred and sixteen six is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 916 j = 917 is nine hundred and seventeen seven is size 14, 9, 0 =  23
+ hunSize, tenSize, oneSize = 14, 9, 0
+i = 917 j = 918 is nine hundred and eighteen eight is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 918 j = 919 is nine hundred and nineteen nine is size 14, 8, 0 =  22
+ hunSize, tenSize, oneSize = 14, 8, 0
+i = 919 j = 920 is nine hundred and twenty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 920 j = 921 is nine hundred and twenty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 921 j = 922 is nine hundred and twenty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 922 j = 923 is nine hundred and twenty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 923 j = 924 is nine hundred and twenty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 924 j = 925 is nine hundred and twenty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 925 j = 926 is nine hundred and twenty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 926 j = 927 is nine hundred and twenty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 927 j = 928 is nine hundred and twenty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 928 j = 929 is nine hundred and twenty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 929 j = 930 is nine hundred and thirty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 930 j = 931 is nine hundred and thirty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 931 j = 932 is nine hundred and thirty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 932 j = 933 is nine hundred and thirty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 933 j = 934 is nine hundred and thirty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 934 j = 935 is nine hundred and thirty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 935 j = 936 is nine hundred and thirty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 936 j = 937 is nine hundred and thirty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 937 j = 938 is nine hundred and thirty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 938 j = 939 is nine hundred and thirty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 939 j = 940 is nine hundred and forty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 940 j = 941 is nine hundred and forty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 941 j = 942 is nine hundred and forty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 942 j = 943 is nine hundred and forty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 943 j = 944 is nine hundred and forty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 944 j = 945 is nine hundred and forty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 945 j = 946 is nine hundred and forty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 946 j = 947 is nine hundred and forty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 947 j = 948 is nine hundred and forty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 948 j = 949 is nine hundred and forty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 949 j = 950 is nine hundred and fifty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 950 j = 951 is nine hundred and fifty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 951 j = 952 is nine hundred and fifty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 952 j = 953 is nine hundred and fifty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 953 j = 954 is nine hundred and fifty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 954 j = 955 is nine hundred and fifty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 955 j = 956 is nine hundred and fifty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 956 j = 957 is nine hundred and fifty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 957 j = 958 is nine hundred and fifty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 958 j = 959 is nine hundred and fifty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 959 j = 960 is nine hundred and sixty is size 14, 5, 0 =  19
+ hunSize, tenSize, oneSize = 14, 5, 0
+i = 960 j = 961 is nine hundred and sixty one is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 961 j = 962 is nine hundred and sixty two is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 962 j = 963 is nine hundred and sixty three is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 963 j = 964 is nine hundred and sixty four is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 964 j = 965 is nine hundred and sixty five is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 965 j = 966 is nine hundred and sixty six is size 14, 5, 3 =  22
+ hunSize, tenSize, oneSize = 14, 5, 3
+i = 966 j = 967 is nine hundred and sixty seven is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 967 j = 968 is nine hundred and sixty eight is size 14, 5, 5 =  24
+ hunSize, tenSize, oneSize = 14, 5, 5
+i = 968 j = 969 is nine hundred and sixty nine is size 14, 5, 4 =  23
+ hunSize, tenSize, oneSize = 14, 5, 4
+i = 969 j = 970 is nine hundred and seventy is size 14, 7, 0 =  21
+ hunSize, tenSize, oneSize = 14, 7, 0
+i = 970 j = 971 is nine hundred and seventy one is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 971 j = 972 is nine hundred and seventy two is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 972 j = 973 is nine hundred and seventy three is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 973 j = 974 is nine hundred and seventy four is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 974 j = 975 is nine hundred and seventy five is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 975 j = 976 is nine hundred and seventy six is size 14, 7, 3 =  24
+ hunSize, tenSize, oneSize = 14, 7, 3
+i = 976 j = 977 is nine hundred and seventy seven is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 977 j = 978 is nine hundred and seventy eight is size 14, 7, 5 =  26
+ hunSize, tenSize, oneSize = 14, 7, 5
+i = 978 j = 979 is nine hundred and seventy nine is size 14, 7, 4 =  25
+ hunSize, tenSize, oneSize = 14, 7, 4
+i = 979 j = 980 is nine hundred and eighty is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 980 j = 981 is nine hundred and eighty one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 981 j = 982 is nine hundred and eighty two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 982 j = 983 is nine hundred and eighty three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 983 j = 984 is nine hundred and eighty four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 984 j = 985 is nine hundred and eighty five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 985 j = 986 is nine hundred and eighty six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 986 j = 987 is nine hundred and eighty seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 987 j = 988 is nine hundred and eighty eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 988 j = 989 is nine hundred and eighty nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 989 j = 990 is nine hundred and ninety is size 14, 6, 0 =  20
+ hunSize, tenSize, oneSize = 14, 6, 0
+i = 990 j = 991 is nine hundred and ninety one is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 991 j = 992 is nine hundred and ninety two is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 992 j = 993 is nine hundred and ninety three is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 993 j = 994 is nine hundred and ninety four is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 994 j = 995 is nine hundred and ninety five is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 995 j = 996 is nine hundred and ninety six is size 14, 6, 3 =  23
+ hunSize, tenSize, oneSize = 14, 6, 3
+i = 996 j = 997 is nine hundred and ninety seven is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 997 j = 998 is nine hundred and ninety eight is size 14, 6, 5 =  25
+ hunSize, tenSize, oneSize = 14, 6, 5
+i = 998 j = 999 is nine hundred and ninety nine is size 14, 6, 4 =  24
+ hunSize, tenSize, oneSize = 14, 6, 4
+i = 999 j = 1000 is  is size 0, 0, 0 =  0
+ hunSize, tenSize, oneSize = 0, 0, 0
+
+21124
